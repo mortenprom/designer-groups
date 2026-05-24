@@ -25,54 +25,7 @@
 			"dark": {
 				"launchpadLayout": {},
 				"tileGroupLayout": [],
-				"tileLayout": [
-					{
-						"screenId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
-						"catId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
-						"tileId": "750d20f7-49f8-4777-9d66-cecb9134d83e",
-						"data": {
-							"ICON_PLACEMENT": "BelowCenter",
-							"TILE_BACK_TYPE": "U",
-							"FIORI_STYLE": "X"
-						}
-					},
-					{
-						"screenId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
-						"catId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
-						"tileId": "2fb8e3aa-f71b-43d9-96e0-a4072c82c301",
-						"data": {
-							"ICON_PLACEMENT": "BelowCenter",
-							"TILE_BACK_TYPE": "U",
-							"FIORI_STYLE": "X"
-						}
-					},
-					{
-						"data": {
-							"BACK_WIDTH": "Wide"
-						},
-						"screenId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
-						"catId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
-						"tileId": "new-97a1047e-bbe8-494c-95f6-84dd437fb46c"
-					},
-					{
-						"screenId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
-						"catId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
-						"tileId": "096ea244-0b37-458f-a462-5d151b2646a2",
-						"data": {
-							"BACK_WIDTH": "Wide"
-						}
-					},
-					{
-						"screenId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
-						"catId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
-						"tileId": "ca1014be-6a2d-463a-81f5-643e9cbc2410",
-						"data": {
-							"BACK_WIDTH": "Small",
-							"TILE_ICON_SIZE": "3.5rem",
-							"ICON_PLACEMENT": "BelowCenter"
-						}
-					}
-				]
+				"tileLayout": []
 			},
 			"light": {
 				"launchpadLayout": {},
