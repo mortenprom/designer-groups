@@ -1,0 +1,153 @@
+{
+	"id": "f2f20474-82ed-4bbb-ad6a-f08c7b12f4ef",
+	"createdAt": "2026-05-23T08:32:16.437Z",
+	"createdBy": "morten@neptune-software.com",
+	"extUserRoles": [],
+	"extUserDepartments": [],
+	"catOrder": [],
+	"layout": [],
+	"config": {
+		"showAccessibilityFocusIndicator": true,
+		"enableTopMenu": true,
+		"noSubmenuHover": true,
+		"pincodeTries": 5,
+		"pincodeLength": 4,
+		"pincodeKeyIterations": 40000,
+		"languages": [],
+		"locales": [],
+		"enhancement": "",
+		"showLaunchpadTitle": true,
+		"showAppTitle": true,
+		"disableCustomizations": false,
+		"activeAppsTop": true,
+		"activeAppsSide": false,
+		"designer": {
+			"dark": {
+				"launchpadLayout": {},
+				"tileGroupLayout": [],
+				"tileLayout": [
+					{
+						"screenId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
+						"catId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
+						"tileId": "750d20f7-49f8-4777-9d66-cecb9134d83e",
+						"data": {
+							"ICON_PLACEMENT": "BelowCenter",
+							"TILE_BACK_TYPE": "U",
+							"FIORI_STYLE": "X"
+						}
+					},
+					{
+						"screenId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
+						"catId": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
+						"tileId": "2fb8e3aa-f71b-43d9-96e0-a4072c82c301",
+						"data": {
+							"ICON_PLACEMENT": "BelowCenter",
+							"TILE_BACK_TYPE": "U",
+							"FIORI_STYLE": "X"
+						}
+					},
+					{
+						"data": {
+							"BACK_WIDTH": "Wide"
+						},
+						"screenId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+						"catId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+						"tileId": "new-97a1047e-bbe8-494c-95f6-84dd437fb46c"
+					},
+					{
+						"screenId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+						"catId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+						"tileId": "096ea244-0b37-458f-a462-5d151b2646a2",
+						"data": {
+							"BACK_WIDTH": "Wide"
+						}
+					},
+					{
+						"screenId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+						"catId": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+						"tileId": "ca1014be-6a2d-463a-81f5-643e9cbc2410",
+						"data": {
+							"BACK_WIDTH": "Small",
+							"TILE_ICON_SIZE": "3.5rem",
+							"ICON_PLACEMENT": "BelowCenter"
+						}
+					}
+				]
+			},
+			"light": {
+				"launchpadLayout": {},
+				"tileGroupLayout": [],
+				"tileLayout": []
+			}
+		}
+	},
+	"enhancement": [],
+	"name": "prom-designer-groups",
+	"title": "Groups",
+	"description": null,
+	"startApp": null,
+	"launchpadFooter": null,
+	"startWebApp": null,
+	"customLogo": null,
+	"launchpadApp": "",
+	"hideSidemenu": false,
+	"ui5Version": "",
+	"ui5Url": null,
+	"ui5Theme": "sap_horizon",
+	"header": null,
+	"customTheme": null,
+	"isExternal": false,
+	"emailPattern": null,
+	"loginApp": null,
+	"enableNotifications": false,
+	"firebaseProjectId": null,
+	"firebaseAppId": null,
+	"defaultLoginIDP": null,
+	"publicAccess": false,
+	"css": null,
+	"clientRequestTimeout": 120,
+	"limitWidth": false,
+	"searchBackgroundType": null,
+	"searchBackgroundColor": null,
+	"searchBackgroundShade": null,
+	"usedBackgroundType": null,
+	"usedBackgroundColor": null,
+	"usedBackgroundShade": null,
+	"searchEnableShadeCalc": null,
+	"usedEnableShadeCalc": null,
+	"enableTrace": false,
+	"ver": "26.05.24.1316",
+	"pwa_enable": false,
+	"pwa_customImageIos": null,
+	"pwa_customImageAndroidOld": null,
+	"pwa_customImageAndroidNew": null,
+	"pwa_desktopScreenshotWide": null,
+	"pwa_desktopScreenshotNarrow": null,
+	"pwa_displayMode": null,
+	"pwa_themeColor": null,
+	"layout_light": null,
+	"layout_dark": null,
+	"layout_preference": 0,
+	"pwa_backgroundColor": null,
+	"passwordResetEmail": null,
+	"activationCodeEmail": null,
+	"noSubmenuHover": false,
+	"package": "73e061d8-1fed-4ec4-94d4-81f4b6945213",
+	"agentId": null,
+	"cat": [
+		{
+			"id": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+			"name": "prom-designer-groups-screen-two",
+			"title": "Screen Two",
+			"ver": "26.05.24.1334"
+		},
+		{
+			"id": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
+			"name": "prom-designer-groups-screen-one",
+			"title": "Screen One",
+			"ver": "26.05.24.1334"
+		}
+	],
+	"roles": [],
+	"i18n": []
+}

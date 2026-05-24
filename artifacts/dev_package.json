@@ -1,0 +1,145 @@
+{
+	"id": "73e061d8-1fed-4ec4-94d4-81f4b6945213",
+	"createdAt": "2026-05-23T08:28:49.661Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/designer-groups.git",
+		"branch": "main"
+	},
+	"name": "prom-designer-groups",
+	"description": null,
+	"ver": "26.05.23.1031",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [
+		{
+			"id": "93313233-ea05-474e-9790-e998dd56345c",
+			"application": "prom_designer_groups_animal",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"theme_generator": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "f42c4a32-19c7-47fa-ba3a-2665ede98e14",
+			"description": null,
+			"name": "prom-designer-groups-fish"
+		},
+		{
+			"id": "750d20f7-49f8-4777-9d66-cecb9134d83e",
+			"description": null,
+			"name": "prom-designer-groups-autumn"
+		},
+		{
+			"id": "69aaffca-fba3-407f-b661-13c628e9e90e",
+			"description": null,
+			"name": "prom-designer-groups-crow"
+		},
+		{
+			"id": "3dafe7a9-0689-4655-8213-a5a8f7dbb292",
+			"description": null,
+			"name": "prom-designer-groups-frog"
+		},
+		{
+			"id": "2fb8e3aa-f71b-43d9-96e0-a4072c82c301",
+			"description": null,
+			"name": "prom-designer-groups-summer"
+		},
+		{
+			"id": "096ea244-0b37-458f-a462-5d151b2646a2",
+			"description": null,
+			"name": "prom-designer-groups-hippo"
+		}
+	],
+	"tile_layout": [],
+	"category": [
+		{
+			"id": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
+			"description": null,
+			"name": "prom-designer-groups-screen-two"
+		},
+		{
+			"id": "9402435f-a8f6-4644-b0cb-bbf34a6af8e0",
+			"description": null,
+			"name": "prom-designer-groups-sidebar"
+		},
+		{
+			"id": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
+			"description": null,
+			"name": "prom-designer-groups-screen-one"
+		},
+		{
+			"id": "44a4213c-f80d-4282-b0bf-daa5edf9f630",
+			"description": null,
+			"name": "prom-designer-groups-section-one"
+		},
+		{
+			"id": "239d8983-2690-45cd-9f54-e00abe42d48c",
+			"description": null,
+			"name": "prom-designer-groups-navbar"
+		},
+		{
+			"id": "027af342-0be3-41e6-9e0e-eec0eebab9c5",
+			"description": null,
+			"name": "prom-designer-groups-section-two"
+		}
+	],
+	"tilegroup_layout": [],
+	"launchpad": [
+		{
+			"id": "f2f20474-82ed-4bbb-ad6a-f08c7b12f4ef",
+			"name": "prom-designer-groups",
+			"description": null
+		}
+	],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [
+		{
+			"id": "1b0f58fe-67e6-4143-81da-f72919977029",
+			"name": "prom_designer_groups_animal",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"font": [],
+	"vault": [],
+	"workflow": [],
+	"workflow_logs": []
+}

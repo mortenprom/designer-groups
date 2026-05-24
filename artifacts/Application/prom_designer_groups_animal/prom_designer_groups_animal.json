@@ -1,0 +1,276 @@
+{
+	"id": "93313233-ea05-474e-9790-e998dd56345c",
+	"createdAt": "2026-05-23T09:13:18.176Z",
+	"createdBy": "morten@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "b0f18f8f-a3f8-4016-e3d4-c56553bd9b55",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "f1c710ef-8db0-4f57-98ec-76a1275afe5b",
+					"fieldName": "Page",
+					"fieldParent": "b0f18f8f-a3f8-4016-e3d4-c56553bd9b55",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "{Animal>/name}",
+							"script": "",
+							"translation": []
+						},
+						{
+							"attribute": "titleAlignment",
+							"grouping": "Properties",
+							"value": "Center",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "7e12b3bd-e1ab-4a0d-babc-7b269e653c06",
+							"fieldName": "FlexBox",
+							"fieldParent": "f1c710ef-8db0-4f57-98ec-76a1275afe5b",
+							"fieldType": "sap.m.FlexBox",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "fitContainer",
+									"grouping": "Properties",
+									"value": "true",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "renderType",
+									"grouping": "Properties",
+									"value": "Bare",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "justifyContent",
+									"grouping": "Properties",
+									"value": "Center",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignItems",
+									"grouping": "Properties",
+									"value": "Center",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignContent",
+									"grouping": "Properties",
+									"value": "Center",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "7d858875-aaff-431d-c520-cbf1c7211440",
+									"fieldName": "VBox",
+									"fieldParent": "7e12b3bd-e1ab-4a0d-babc-7b269e653c06",
+									"fieldType": "sap.m.VBox",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "400px",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "renderType",
+											"grouping": "Properties",
+											"value": "Bare",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "alignItems",
+											"grouping": "Properties",
+											"value": "Center",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "352310cf-3655-4b59-a089-df71be8afc2c",
+											"fieldName": "Title",
+											"fieldParent": "7d858875-aaff-431d-c520-cbf1c7211440",
+											"fieldType": "sap.m.Title",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{Animal>/name}",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "level",
+													"grouping": "Properties",
+													"value": "H1",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "titleStyle",
+													"grouping": "Properties",
+													"value": "H1",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "styleClassMargin",
+													"grouping": "Properties",
+													"value": "sapUiSmallMarginBottom",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "00b83e39-fa06-4900-c6f0-32da58732ed0",
+											"fieldName": "Icon",
+											"fieldParent": "7d858875-aaff-431d-c520-cbf1c7211440",
+											"fieldType": "sap.ui.core.Icon",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "src",
+													"grouping": "Properties",
+													"value": "{Animal>/icon}",
+													"script": "",
+													"translation": []
+												},
+												{
+													"attribute": "size",
+													"grouping": "Properties",
+													"value": "8rem",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "db2e5067-4e1b-4fa3-dc32-8b0bc490c74c",
+					"fieldName": "Animal",
+					"fieldParent": 99999,
+					"fieldType": "neptune.model",
+					"script": "",
+					"bindingValue": "Generic Object",
+					"assignDefaultData": true,
+					"bindingType": "u",
+					"bindingSource": "P9",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "6dbd8593-b7af-4592-ba80-1c5e64d84f62",
+					"fieldName": "Init",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/Init.ts",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "26.05.23.1138",
+	"application": "prom_designer_groups_animal",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_dxp_ui": false,
+	"ui5_theme": "",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "73e061d8-1fed-4ec4-94d4-81f4b6945213",
+	"apis": [],
+	"i18n": []
+}

@@ -1,0 +1,24 @@
+{
+	"id": "1b0f58fe-67e6-4143-81da-f72919977029",
+	"createdAt": "2026-05-23T09:16:58.455Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN",
+			"locale": "en"
+		}
+	],
+	"name": "prom_designer_groups_animal",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "prom_designer_groups_animal",
+	"ver": "26.05.23.1138",
+	"package": "73e061d8-1fed-4ec4-94d4-81f4b6945213",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": []
+}
