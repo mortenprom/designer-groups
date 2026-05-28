@@ -4,7 +4,10 @@
 	"createdBy": "morten@neptune-software.com",
 	"extUserRoles": [],
 	"extUserDepartments": [],
-	"catOrder": [],
+	"catOrder": [
+		"517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
+		"f7cde695-fdd0-46ed-b1d3-753ab881138a"
+	],
 	"layout": [],
 	"config": {
 		"showAccessibilityFocusIndicator": true,
@@ -18,7 +21,7 @@
 		"enhancement": "",
 		"showLaunchpadTitle": true,
 		"showAppTitle": true,
-		"disableCustomizations": false,
+		"disableCustomizations": true,
 		"activeAppsTop": true,
 		"activeAppsSide": false,
 		"designer": {
@@ -69,7 +72,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "26.05.24.1316",
+	"ver": "26.05.28.0911",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -92,13 +95,13 @@
 			"id": "f7cde695-fdd0-46ed-b1d3-753ab881138a",
 			"name": "prom-designer-groups-screen-two",
 			"title": "Screen Two",
-			"ver": "26.05.24.1334"
+			"ver": "26.05.25.1202"
 		},
 		{
 			"id": "517d3e9f-9c46-4672-8f2a-3a9c6495aee7",
 			"name": "prom-designer-groups-screen-one",
 			"title": "Screen One",
-			"ver": "26.05.24.1334"
+			"ver": "26.05.28.0911"
 		}
 	],
 	"roles": [],

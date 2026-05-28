@@ -38,7 +38,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.05.24.1334",
+	"ver": "26.05.25.1202",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -136,23 +136,23 @@
 			"id": "44a4213c-f80d-4282-b0bf-daa5edf9f630",
 			"name": "prom-designer-groups-section-one",
 			"title": "Section One",
-			"ver": "26.05.24.1335"
+			"ver": "26.05.25.1202"
 		}
 	],
 	"navbarGroups": [
 		{
 			"id": "239d8983-2690-45cd-9f54-e00abe42d48c",
 			"name": "prom-designer-groups-navbar",
-			"title": "Navbar",
-			"ver": "26.05.24.1335"
+			"title": "Left",
+			"ver": "26.05.27.0013"
 		}
 	],
 	"sidebarGroups": [
 		{
 			"id": "9402435f-a8f6-4644-b0cb-bbf34a6af8e0",
 			"name": "prom-designer-groups-sidebar",
-			"title": "Sidebar",
-			"ver": "26.05.24.1335"
+			"title": "Right",
+			"ver": "26.05.25.1202"
 		}
 	],
 	"i18n": []
